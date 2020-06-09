@@ -76,7 +76,29 @@ header .custom-column .site-menu {
 
 /* CONTENT */
 
+/* banner */
+.section-banner {
+  background-image: url(../images/banner.jpg);
+  height: 718px;
+  background-repeat: no-repeat;
+  background-position: center right;
+  position: relative;
+}
 
+.section-banner h1 {
+  margin: 0;
+  color: #da3e99;
+  font-size: 120px;
+  font-weight: 900;
+  line-height: 0.9;
+}
+
+/* position h1 relative to banner image */
+.section-banner .section-content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
 
 
 
