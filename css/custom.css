@@ -1,0 +1,88 @@
+/* GENERAL */
+body {
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Caveat', cursive;
+}
+
+.wrapper {
+  width: 1120px;
+  margin: 0 auto;
+}
+
+.custom-row {
+  display: block;
+}
+
+.icon-violet {
+  color: #da3e99;
+  font-size: 32px;
+}
+
+
+
+/* HEADER */
+header {
+  background-color: #fdc4e7;
+  height: 40px;
+  padding: 20px 0;
+}
+
+header .custom-column .site-logo {
+  width: 30%;
+  float: left;
+}
+
+header .custom-column .site-menu {
+  width: 70%;
+  float: left;
+}
+
+.site-menu ul {
+  margin: 8px 0;
+  padding: 0;
+  text-align: right;
+}
+
+.site-menu li {
+  display: inline-block;
+  list-style: none;
+}
+
+.site-menu a {
+  color: #da3e99;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Caveat', cursive;
+  font-size: 22px;
+  font-weight: 900;
+  padding: 5px 20px;
+}
+
+.site-menu a:hover {
+  color: #FF0096;
+}
+
+
+
+
+/* CONTENT */
+
+
+
+
+
+
+
+
+/* STOPPED AT 38:48 ON CS3 - CSS video 3 */
+
+/* FOOTER */
